@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  Visiting Lecturer
-subtitle: School of Interactive Games & Media, RIT
+title:  Erika S. Mesh
+subtitle: Visiting Lecturer, School of Interactive Games & Media, RIT
 ---
 
 ## About Me
-I am a Visiting Lecturer in the School of Interactive Games and Media as well as a Ph.D. student in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for computational science and engineering (CSE) domains. This also extends to other non-research/scientific projects with highly complex or high-value domains. My secondary interests include, in no particular order: program comprehension, requirements engineering, task management and SE knowledge management.
+I am a Visiting Lecturer in the School of Interactive Games and Media in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for computational science and engineering (CSE) domains. This also extends to other non-research/scientific projects with highly complex or high-value domains. My secondary interests include, in no particular order: program comprehension, requirements engineering, task management and SE knowledge management.
 [CV](documents/CV.pdf)
 
 ## Contact
