@@ -32,5 +32,5 @@ Email: esmvcs[at]rit.edu
 - <a href= "https://www.cs.rit.edu/~csci603/syllabus.html" target="_blank">CSCI-603: Computational Problem Solving - Intersession 2016</a>
 
 ## Other Resources:
-[My notes on applying for the NSF GRFP](GRFP/GRFP.md)
+[My notes on applying for the NSF GRFP](documents/GRFP/GRFP.md)
 
