@@ -2,12 +2,13 @@
 layout: default
 ---
 
-{% if page.title %}
 <header class="header-page">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	  <div class="page-heading">
+	    {% if page.title %}
 	    <h2>{{ page.title }}</h2>
+	    {% endif %}
 	    {% if page.subtitle %}
 	    <hr class="small">
 	    <span class="page-subheading">{{ page.subtitle }}</span>
@@ -16,7 +17,6 @@ layout: default
     </div>
   </div>
 </header>
-{% endif %}
 
 <div class="row">
   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
