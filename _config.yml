@@ -27,7 +27,7 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  #Blog: "blog"
+  Blog: "blog"
   #Teaching: "teaching"
   #Datasets: "datasets"
   #Publications: "publications"
