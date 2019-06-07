@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  Erika S. Mesh
-subtitle: Visiting Lecturer, School of Interactive Games & Media, RIT
+subtitle: Erika S. Mesh<br>Visiting Lecturer, School of Interactive Games & Media, RIT
 ---
 
 ## About Me
