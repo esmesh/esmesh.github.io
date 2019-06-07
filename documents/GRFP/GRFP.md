@@ -1,7 +1,8 @@
 ---
 layout: page
-subtitle: Notes on applying got the NSF GRFP
 ---
+
+# Notes on applying got the NSF GRFP
 
 ## What is the NSF GRFP?
 So before I go any further, I want to start by explaining the long acronym that is the title of this post and that is used ONLY in acronym form throughout academia. The NSF GRFP is: The National Science Foundation's Graduate Research Fellowship Program. There, I hope you caught that... because I'm not typing it all out again. Now that that is covered, some basic info/opinions...
