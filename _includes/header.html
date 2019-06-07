@@ -35,9 +35,6 @@
 			{% endif %}
 		  {% endif %}
 		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
         </div>
       </div>
     </div>
@@ -58,10 +55,6 @@
 			{% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
-		  {% endif %}
-		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
       </div>
