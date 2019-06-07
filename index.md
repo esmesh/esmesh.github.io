@@ -1,0 +1,36 @@
+---
+layout: page
+title:  Visiting Lecturer
+subtitle: School of Interactive Games & Media, RIT
+---
+
+## About Me
+I am a Visiting Lecturer in the School of Interactive Games and Media as well as a Ph.D. student in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for computational science and engineering (CSE) domains. This also extends to other non-research/scientific projects with highly complex or high-value domains. My secondary interests include, in no particular order: program comprehension, requirements engineering, task management and SE knowledge management.
+[CV](aboutme/CV.pdf)
+
+## Contact
+
+```
+Office: GOL-2573
+Email: esmvcs[at]rit.edu
+```
+
+### Summer 2019 Office Hours (GOL-2573):
+*By appointment only.*
+
+## Teaching
+
+### Current course(s):
+*I am not teaching this summer.*
+
+### Past course(s):
+- <a href="aboutme/oldCourseInfo/igme105-05-08-schedule-fall-2181.html" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I - Fall 2018</a>
+- <a href="aboutme/oldCourseInfo/IGME106_Course_Schedule_2185.htm" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II - Spring 2019</a>
+- <a href="aboutme/oldCourseInfo/IGME601_2181_Schedule.pdf" target="_blank">IGME-601: Game Development Processes - Fall 2018</a>
+ - <a href="aboutme/oldCourseInfo/IGME609_Course_Schedule_2185.htm" target="_blank">IGME-609: Programming for Designers - Spring 2019</a>
+- <a href="http://www.se.rit.edu/~swen-261/" target="_blank">SWEN-261: Introduction to Software Engineering - Fall 2017, Spring 2018</a>
+- <a href= "https://www.cs.rit.edu/~csci603/syllabus.html" target="_blank">CSCI-603: Computational Problem Solving - Intersession 2016</a>
+
+## Other Resources:
+[My notes on applying for the NSF GRFP](GRFP/GRFP.md)
+
