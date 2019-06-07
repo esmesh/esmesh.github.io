@@ -1,16 +1,33 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Visiting Lecturer in the School of Interactive Games and Media as well as a Ph.D. student in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for computational science and engineering (CSE) domains. This also extends to other non-research/scientific projects with highly complex or high-value domains. My secondary interests include, in no particular order: program comprehension, requirements engineering, task management and SE knowledge management.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+[CV](CV.pdf)
 
-What else do you need?
+## Contact Information & Office Hours
+The best way to reach me is via email: esmvcs @ rit.edu
 
-### my history
+*Please email me as needed with questions or to make an appointment.*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Summer 2019 Office Hours (GOL-2573):
+*By appointment only.*
+
+
+## Teaching
+
+### Current course(s):
+*I am not teaching this summer.*
+
+### Past course(s):
+- <a href="oldCourseInfo/igme105-05-08-schedule-fall-2181.html" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I - Fall 2018</a>
+- <a href="oldCourseInfo/IGME106_Course_Schedule_2185.htm" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II - Spring 2019</a>
+- <a href="oldCourseInfo/IGME601_2181_Schedule.pdf" target="_blank">IGME-601: Game Development Processes - Fall 2018</a>
+ - <a href="oldCourseInfo/IGME609_Course_Schedule_2185.htm" target="_blank">IGME-609: Programming for Designers - Spring 2019</a>
+- <a href="http://www.se.rit.edu/~swen-261/" target="_blank">SWEN-261: Introduction to Software Engineering - Fall 2017, Spring 2018</a>
+- <a href= "https://www.cs.rit.edu/~csci603/syllabus.html" target="_blank">CSCI-603: Computational Problem Solving - Intersession 2016</a>
+
+## Other Resources:
+[My notes on applying for the NSF GRFP](GRFP/GRFP.md)
