@@ -1,4 +1,4 @@
-# --- Serving options --- #
+# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -21,16 +21,44 @@ description: Academic website and blog
 
 # --- Navigation bar options --- #
 
+# List of links in the navigation bar
+navbar-links:
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Blog: "blog"
+
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/img/erika.jpg"
 
-# List of links in the navigation bar
-navbar-links:
-  Blog: "blog"
-  #Teaching: "teaching"
-  #Datasets: "datasets"
-  #Publications: "publications"
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
+
  
 # --- Footer options --- #
 
@@ -142,12 +170,19 @@ prose:
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
           alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
       - name: "published"
         field:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
