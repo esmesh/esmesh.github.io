@@ -21,10 +21,10 @@ Email: esmvcs[at]rit.edu
 ## Teaching
  
 ### Fall 2019 courses:
-* IGME-105: Game Development and Algorithmic Problem Solving I
+* <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I</a>
    - Section 05: MWF 12-1:50pm, ORN-1375
    - Section 08: MWF 3-4:50pm, ORN-1370
-* IGME-601: Game Development Processes
+* <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">IGME-601: Game Development Processes</a>
    - Section 01: TR 2-3:15pm, ORN-1380
 
 ### Past courses:
