@@ -16,7 +16,8 @@ Email: esmvcs[at]rit.edu
 ```
 
 ### Current Office Hours (GOL-2573):
-*By appointment only.*
+Tuesdays & Wednesdays 9-11am
+
 
 ## Teaching
  
