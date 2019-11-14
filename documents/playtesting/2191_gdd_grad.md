@@ -3,7 +3,7 @@
 
 **Come play the latest graduate student projects!**<br>
 All ages welcome! <br>
-RSVP at https://forms.gle/FAChsUn8AjsVP9MfA for location and parking details.
+RSVP at [https://forms.gle/FAChsUn8AjsVP9MfA](https://forms.gle/FAChsUn8AjsVP9MfA) for location and parking details.
 
 
 **Bumper Bears** *by Team Bumper Bears*
