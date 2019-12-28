@@ -15,12 +15,18 @@ Office: GOL-2573
 Email: esmvcs[at]rit.edu
 ```
 
-### Current Office Hours (GOL-2573):
-Tuesdays & Wednesdays 9-11am
-
+### Spring 2020 Office Hours (GOL-2573):
+- Tuesdays & Thursdays 9:30-11am
+- Wednesdays 3:30-4:30pm
 
 ## Teaching
  
+### Spring 2020 courses:
+* <a href="https://esmesh.github.io/RIT-IGME-106/" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II</a>
+    - Section 01: MWF 8:00 - 9:50am, ORN-1380
+    - Section 04: MWF 11:00am - 12:50pm, ORN-1380
+    - Section 02: MWF 1:00 - 2:50pm, GOL-2435
+
 ### Fall 2019 courses:
 * <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I</a>
    - Section 05: MWF 12-1:50pm, ORN-1375
