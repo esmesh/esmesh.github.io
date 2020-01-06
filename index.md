@@ -16,8 +16,7 @@ Email: esmvcs[at]rit.edu
 ```
 
 ### Spring 2020 Office Hours (GOL-2573):
-- Tuesdays & Thursdays 9:30-11am
-- Wednesdays 3:30-4:30pm
+- Tuesdays & Thursdays 9:00-11am
 
 ## Teaching
  
@@ -27,18 +26,17 @@ Email: esmvcs[at]rit.edu
     - Section 04: MWF 11:00am - 12:50pm, ORN-1380
     - Section 02: MWF 1:00 - 2:50pm, GOL-2435
 
-### Fall 2019 courses:
-* <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I</a>
-   - Section 05: MWF 12-1:50pm, ORN-1375
-   - Section 08: MWF 3-4:50pm, ORN-1370
-* <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">IGME-601: Game Development Processes</a>
-   - Section 01: TR 2-3:15pm, ORN-1380
-
 ### Past courses:
-* <a href="documents/2018-19/igme105-05-08-schedule-fall-2181.html" target="_blank">IGME-105: Game Development and Algorithmic Problem Solving I - Fall 2018</a>
-* <a href="documents/2018-19/IGME106_Course_Schedule_2185.htm" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II - Spring 2019</a>
-* <a href="documents/2018-19/IGME601_2181_Schedule.pdf" target="_blank">IGME-601: Game Development Processes - Fall 2018</a>
-* <a href="documents/2018-19/IGME609_Course_Schedule_2185.htm" target="_blank">IGME-609: Programming for Designers - Spring 2019</a>
+* IGME-105: Game Development and Algorithmic Problem Solving I</a>
+   - <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">Fall 2019</a>
+   - <a href="documents/2018-19/igme105-05-08-schedule-fall-2181.html" target="_blank">Fall 2018</a>
+* IGME-601: Game Development Processes</a>
+   - <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">Fall 2019</a>
+   - <a href="documents/2018-19/IGME601_2181_Schedule.pdf" target="_blank">Fall 2018</a>
+* IGME-106: Game Development and Algorithmic Problem Solving II
+   - <a href="documents/2018-19/IGME106_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
+* IGME-609: Programming for Designers
+   - <a href="documents/2018-19/IGME609_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
 * <a href="http://www.se.rit.edu/~swen-261/" target="_blank">SWEN-261: Introduction to Software Engineering - Fall 2017, Spring 2018</a>
 * <a href= "https://www.cs.rit.edu/~csci603/syllabus.html" target="_blank">CSCI-603: Computational Problem Solving - Intersession 2016</a>
 
