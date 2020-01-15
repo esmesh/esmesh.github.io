@@ -24,15 +24,15 @@ Email: esmvcs[at]rit.edu
 * <a href="https://esmesh.github.io/RIT-IGME-106/" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II</a>
     - Section 01: MWF 8:00 - 9:50am, ORN-1380
     - Section 04: MWF 11:00am - 12:50pm, ORN-1380
-    - Section 02: MWF 1:00 - 2:50pm, GOL-2435
+    - Section 02: MWF 1:00 - 2:50pm, ORN-1380
 
 ### Past courses:
-* IGME-105: Game Development and Algorithmic Problem Solving I</a>
+* IGME-105: Game Development and Algorithmic Problem Solving I
    - <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">Fall 2019</a>, <a href="documents/2018-19/igme105-05-08-schedule-fall-2181.html" target="_blank">Fall 2018</a>
-* IGME-601: Game Development Processes</a>
-   - <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">Fall 2019</a>, <a href="documents/2018-19/IGME601_2181_Schedule.pdf" target="_blank">Fall 2018</a>
 * IGME-106: Game Development and Algorithmic Problem Solving II
    - <a href="documents/2018-19/IGME106_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
+* IGME-601: Game Development Processes
+   - <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">Fall 2019</a>, <a href="documents/2018-19/IGME601_2181_Schedule.pdf" target="_blank">Fall 2018</a>
 * IGME-609: Programming for Designers
    - <a href="documents/2018-19/IGME609_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
 * <a href="http://www.se.rit.edu/~swen-261/" target="_blank">SWEN-261: Introduction to Software Engineering - Fall 2017, Spring 2018</a>
