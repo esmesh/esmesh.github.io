@@ -21,7 +21,7 @@ Email: esmvcs[at]rit.edu
 ## Teaching
  
 ### Spring 2020 courses:
-* <a href="https://esmesh.github.io/RIT-IGME-106/" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II</a>
+* <a href="https://esmesh.github.io/RIT-IGME-106-2195/" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II</a>
     - Section 01: MWF 8:00 - 9:50am, ORN-1380
     - Section 04: MWF 11:00am - 12:50pm, ORN-1380
     - Section 02: MWF 1:00 - 2:50pm, ORN-1380
