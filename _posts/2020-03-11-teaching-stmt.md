@@ -5,7 +5,7 @@ title: Teaching Philosophy
 
 Over the course of a semester, most of my students learn a lot about me as a person. I've been told I have a very transparent teaching style. In the interest of transparency, and in light of the news that all RIT courses are about to shift to ["alternate delivery" modes in the next 2 weeks](https://www.rit.edu/news/statement-rit-president-munson-spring-break-extended-courses-resume-march-23-through), I think now is a good time to share something I wrote a little over a year ago: my offical "teaching statement".
 
-For those who don't know, a teaching statment is a formal description of an instructor's approach to teaching. Below is mine (a slightly edited for public consumption)...
+For those who don't know, a teaching statment is a formal description of an instructor's approach to teaching. Below is mine (slightly edited for public consumption)...
 
 ***
 
