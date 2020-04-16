@@ -16,8 +16,9 @@ Email: esmvcs[at]rit.edu
 ```
 
 ### Spring 2020 Office Hours:
-- R 1:30-3:30pm, F 8-10am via Zoom and Discord (email or see myCourses for meeting URL)
-- Also available by appointment most days 9am-4pm EST with 24 hours notice.
+- Virtual office hours via Discord (+ Zoom if needed)
+  - T 10-11am, WR 1:30-2:30pm, F 11am-Noon, Sun 2-4pm
+- Available by appointment most days 9am-4pm EST with 24 hours notice.
 
 ## Teaching
  
