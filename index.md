@@ -15,30 +15,28 @@ Office: GOL-2573
 Email: esmvcs[at]rit.edu
 ```
 
-### Spring 2020 Office Hours:
-- Virtual office hours via Discord (+ Zoom if needed)
-  - T 10-11am, WR 1:30-2:30pm, F 11am-Noon, Sun 2-4pm
+### Fall 2020 Office Hours:
+I will be teaching remotely for the duration of the semester. I will still be available live during all class sessions, for virtual office hours, and by appointment. **Please** don't hesitate to reach out about anything - even if it's just to chat and get to know each other.
+- Virtual office hours via Zoom (link in myCourses or you may email me)
+  - Times TBD
 - Available by appointment most days 9am-4pm EST with 24 hours notice.
 
 ## Teaching
  
-### Spring 2020 courses:
-* <a href="https://esmesh.github.io/RIT-IGME-106-2195/" target="_blank">IGME-106: Game Development and Algorithmic Problem Solving II</a>
-    - Section 01: MWF 8:00 - 9:50am, ORN-1380
-    - Section 04: MWF 11:00am - 12:50pm, ORN-1380
-    - Section 02: MWF 1:00 - 2:50pm, ORN-1380
+### Fall 2020 courses:
+* IGME-105: Game Development and Algorithmic Problem Solving I (ABC-S, Flex)
+    - Section 05: MWF 12:20 - 2:15pm, ORN-1375/Online
+    - Section 07: MWF 2:30-4:25pm, ORN-1380/Online
+* IGME-601: Game Development Processes (Online)
+    - Section 01: TR 2:00 - 3:15pm
 
 ### Past courses:
-* IGME-105: Game Development and Algorithmic Problem Solving I
-   - <a href="https://esmesh.github.io/RIT-IGME-105/" target="_blank">Fall 2019</a>, <a href="documents/2018-19/igme105-05-08-schedule-fall-2181.html" target="_blank">Fall 2018</a>
-* IGME-106: Game Development and Algorithmic Problem Solving II
-   - <a href="documents/2018-19/IGME106_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
-* IGME-601: Game Development Processes
-   - <a href="https://esmesh.github.io/RIT-IGME-601/" target="_blank">Fall 2019</a>, <a href="documents/2018-19/IGME601_2181_Schedule.pdf" target="_blank">Fall 2018</a>
-* IGME-609: Programming for Designers
-   - <a href="documents/2018-19/IGME609_Course_Schedule_2185.htm" target="_blank">Spring 2019</a>
-* <a href="http://www.se.rit.edu/~swen-261/" target="_blank">SWEN-261: Introduction to Software Engineering - Fall 2017, Spring 2018</a>
-* <a href= "https://www.cs.rit.edu/~csci603/syllabus.html" target="_blank">CSCI-603: Computational Problem Solving - Intersession 2016</a>
+* IGME-105: Game Development and Algorithmic Problem Solving I *- Fall 2019, Fall 2018*
+* IGME-106: Game Development and Algorithmic Problem Solving II *- Spring 2019, Spring 2020*
+* IGME-601: Game Development Processes *- Fall 2019, Fall 2018*
+* IGME-609: Programming for Designers *- Spring 2019*
+* SWEN-261: Introduction to Software Engineering *- Fall 2017, Spring 2018*
+* CSCI-603: Computational Problem Solving *- Intersession 2016*
 
 ## Other Resources:
 [My notes on applying for the NSF GRFP](documents/GRFP/GRFP.md)
