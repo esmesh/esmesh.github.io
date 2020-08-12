@@ -5,8 +5,11 @@ subtitle: Lecturer, School of Interactive Games & Media, RIT
 ---
 
 ## About Me
-I am a Lecturer in the School of Interactive Games and Media in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for computational science and engineering (CSE) domains. This also extends to other non-research/scientific projects with highly complex or high-value domains. My secondary interests include, in no particular order: program comprehension, requirements engineering, task management and SE knowledge management.
-[CV](documents/CV.pdf)
+I am a Lecturer in the School of Interactive Games and Media in the Golisano College of Computing and Information Sciences. My primary interests involve understanding and supporting software engineering process improvement (SPI) decisions for project teams in specialized domains: originally computational scientists and now game developers.
+
+Within IGM, I work with the MS GDD students on learning to evaluate and improve and their game development processes (via this class and as a capstone process advisor). I also teach our undergraduate introductory programming sequence.
+
+- [CV](documents/CV.pdf)
 
 ## Contact
 
