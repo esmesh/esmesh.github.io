@@ -18,28 +18,27 @@ Office: GOL-2573
 Email: esmvcs[at]rit.edu
 ```
 
-### Fall 2020 Office Hours:
+### Spring 2021 Office Hours:
 I will be teaching remotely for the duration of the semester. I will still be available live during all class sessions, for virtual office hours, and by appointment. **Please** don't hesitate to reach out about anything - even if it's just to chat and get to know each other.
-- Virtual office hours via Zoom (link in myCourses or you may email me)
-  - Times TBD
-- Available by appointment most days 9am-4pm EST with 24 hours notice.
+* Virtual office hours via Zoom (link in myCourses or you may email me)
+    - TR 9:30-11am ET ("walk" ins)
+    - TR 2-3pm ET (appts via Starfish only)
 
 ## Teaching
  
-### Fall 2020 courses:
-* IGME-105: Game Development and Algorithmic Problem Solving I (ABC-S, Flex)
-    - Section 05: MWF 12:20 - 2:15pm, ORN-1375/Online
-    - Section 07: MWF 2:30-4:25pm, ORN-1380/Online
-* IGME-601: Game Development Processes (Online)
-    - Section 01: TR 2:00 - 3:15pm
+### Spring 2021 courses:
+* IGME-106: Game Development and Algorithmic Problem Solving II (Online, Sync)
+    -  Section 01: MWF 9:05 - 11:00am
+    - Section 04: MWF 11:15am - 1:10pm
+    - Section 03: MWF 1:25 - 3:20pm
 
 ### Past courses:
-* IGME-105: Game Development and Algorithmic Problem Solving I *- Fall 2019, Fall 2018*
-* IGME-106: Game Development and Algorithmic Problem Solving II *- Spring 2019, Spring 2020*
-* IGME-601: Game Development Processes *- Fall 2019, Fall 2018*
-* IGME-609: Programming for Designers *- Spring 2019*
-* SWEN-261: Introduction to Software Engineering *- Fall 2017, Spring 2018*
-* CSCI-603: Computational Problem Solving *- Intersession 2016*
+* IGME-105: Game Development and Algorithmic Problem Solving I
+* IGME-106: Game Development and Algorithmic Problem Solving II
+* IGME-601: Game Development Processes
+* IGME-609: Programming for Designers
+* SWEN-261: Introduction to Software Engineering
+* CSCI-603: Computational Problem Solving
 
 ## Other Resources:
 [My notes on applying for the NSF GRFP](documents/GRFP/GRFP.md)
